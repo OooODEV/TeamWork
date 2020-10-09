@@ -1,0 +1,13 @@
+E:\PROJECTS\Lab 1\Third\Third\bin\Debug\netcoreapp3.1\Third.exe
+E:\PROJECTS\Lab 1\Third\Third\bin\Debug\netcoreapp3.1\Third.deps.json
+E:\PROJECTS\Lab 1\Third\Third\bin\Debug\netcoreapp3.1\Third.runtimeconfig.json
+E:\PROJECTS\Lab 1\Third\Third\bin\Debug\netcoreapp3.1\Third.runtimeconfig.dev.json
+E:\PROJECTS\Lab 1\Third\Third\bin\Debug\netcoreapp3.1\Third.dll
+E:\PROJECTS\Lab 1\Third\Third\bin\Debug\netcoreapp3.1\Third.pdb
+E:\PROJECTS\Lab 1\Third\Third\obj\Debug\netcoreapp3.1\Third.csprojAssemblyReference.cache
+E:\PROJECTS\Lab 1\Third\Third\obj\Debug\netcoreapp3.1\Third.AssemblyInfoInputs.cache
+E:\PROJECTS\Lab 1\Third\Third\obj\Debug\netcoreapp3.1\Third.AssemblyInfo.cs
+E:\PROJECTS\Lab 1\Third\Third\obj\Debug\netcoreapp3.1\Third.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Lab 1\Third\Third\obj\Debug\netcoreapp3.1\Third.dll
+E:\PROJECTS\Lab 1\Third\Third\obj\Debug\netcoreapp3.1\Third.pdb
+E:\PROJECTS\Lab 1\Third\Third\obj\Debug\netcoreapp3.1\Third.genruntimeconfig.cache
