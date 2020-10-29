@@ -1,0 +1,13 @@
+E:\PROJECTS\Lab 1\Seventh\Seventh\bin\Debug\netcoreapp3.1\Seventh.exe
+E:\PROJECTS\Lab 1\Seventh\Seventh\bin\Debug\netcoreapp3.1\Seventh.deps.json
+E:\PROJECTS\Lab 1\Seventh\Seventh\bin\Debug\netcoreapp3.1\Seventh.runtimeconfig.json
+E:\PROJECTS\Lab 1\Seventh\Seventh\bin\Debug\netcoreapp3.1\Seventh.runtimeconfig.dev.json
+E:\PROJECTS\Lab 1\Seventh\Seventh\bin\Debug\netcoreapp3.1\Seventh.dll
+E:\PROJECTS\Lab 1\Seventh\Seventh\bin\Debug\netcoreapp3.1\Seventh.pdb
+E:\PROJECTS\Lab 1\Seventh\Seventh\obj\Debug\netcoreapp3.1\Seventh.csprojAssemblyReference.cache
+E:\PROJECTS\Lab 1\Seventh\Seventh\obj\Debug\netcoreapp3.1\Seventh.AssemblyInfoInputs.cache
+E:\PROJECTS\Lab 1\Seventh\Seventh\obj\Debug\netcoreapp3.1\Seventh.AssemblyInfo.cs
+E:\PROJECTS\Lab 1\Seventh\Seventh\obj\Debug\netcoreapp3.1\Seventh.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Lab 1\Seventh\Seventh\obj\Debug\netcoreapp3.1\Seventh.dll
+E:\PROJECTS\Lab 1\Seventh\Seventh\obj\Debug\netcoreapp3.1\Seventh.pdb
+E:\PROJECTS\Lab 1\Seventh\Seventh\obj\Debug\netcoreapp3.1\Seventh.genruntimeconfig.cache

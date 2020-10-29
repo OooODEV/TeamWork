@@ -1,0 +1,13 @@
+E:\PROJECTS\Lab 1\Fifth\Fifth\bin\Debug\netcoreapp3.1\Fifth.exe
+E:\PROJECTS\Lab 1\Fifth\Fifth\bin\Debug\netcoreapp3.1\Fifth.deps.json
+E:\PROJECTS\Lab 1\Fifth\Fifth\bin\Debug\netcoreapp3.1\Fifth.runtimeconfig.json
+E:\PROJECTS\Lab 1\Fifth\Fifth\bin\Debug\netcoreapp3.1\Fifth.runtimeconfig.dev.json
+E:\PROJECTS\Lab 1\Fifth\Fifth\bin\Debug\netcoreapp3.1\Fifth.dll
+E:\PROJECTS\Lab 1\Fifth\Fifth\bin\Debug\netcoreapp3.1\Fifth.pdb
+E:\PROJECTS\Lab 1\Fifth\Fifth\obj\Debug\netcoreapp3.1\Fifth.csprojAssemblyReference.cache
+E:\PROJECTS\Lab 1\Fifth\Fifth\obj\Debug\netcoreapp3.1\Fifth.AssemblyInfoInputs.cache
+E:\PROJECTS\Lab 1\Fifth\Fifth\obj\Debug\netcoreapp3.1\Fifth.AssemblyInfo.cs
+E:\PROJECTS\Lab 1\Fifth\Fifth\obj\Debug\netcoreapp3.1\Fifth.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Lab 1\Fifth\Fifth\obj\Debug\netcoreapp3.1\Fifth.dll
+E:\PROJECTS\Lab 1\Fifth\Fifth\obj\Debug\netcoreapp3.1\Fifth.pdb
+E:\PROJECTS\Lab 1\Fifth\Fifth\obj\Debug\netcoreapp3.1\Fifth.genruntimeconfig.cache

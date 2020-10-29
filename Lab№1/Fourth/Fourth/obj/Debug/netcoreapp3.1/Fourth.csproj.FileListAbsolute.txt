@@ -1,0 +1,13 @@
+E:\PROJECTS\Lab 1\Fourth\Fourth\bin\Debug\netcoreapp3.1\Fourth.exe
+E:\PROJECTS\Lab 1\Fourth\Fourth\bin\Debug\netcoreapp3.1\Fourth.deps.json
+E:\PROJECTS\Lab 1\Fourth\Fourth\bin\Debug\netcoreapp3.1\Fourth.runtimeconfig.json
+E:\PROJECTS\Lab 1\Fourth\Fourth\bin\Debug\netcoreapp3.1\Fourth.runtimeconfig.dev.json
+E:\PROJECTS\Lab 1\Fourth\Fourth\bin\Debug\netcoreapp3.1\Fourth.dll
+E:\PROJECTS\Lab 1\Fourth\Fourth\bin\Debug\netcoreapp3.1\Fourth.pdb
+E:\PROJECTS\Lab 1\Fourth\Fourth\obj\Debug\netcoreapp3.1\Fourth.csprojAssemblyReference.cache
+E:\PROJECTS\Lab 1\Fourth\Fourth\obj\Debug\netcoreapp3.1\Fourth.AssemblyInfoInputs.cache
+E:\PROJECTS\Lab 1\Fourth\Fourth\obj\Debug\netcoreapp3.1\Fourth.AssemblyInfo.cs
+E:\PROJECTS\Lab 1\Fourth\Fourth\obj\Debug\netcoreapp3.1\Fourth.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Lab 1\Fourth\Fourth\obj\Debug\netcoreapp3.1\Fourth.dll
+E:\PROJECTS\Lab 1\Fourth\Fourth\obj\Debug\netcoreapp3.1\Fourth.pdb
+E:\PROJECTS\Lab 1\Fourth\Fourth\obj\Debug\netcoreapp3.1\Fourth.genruntimeconfig.cache

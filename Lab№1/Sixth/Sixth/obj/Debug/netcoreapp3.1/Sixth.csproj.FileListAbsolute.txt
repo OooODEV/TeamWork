@@ -1,0 +1,13 @@
+C:\Users\igyan\source\repos\Sixth\Sixth\bin\Debug\netcoreapp3.1\Sixth.exe
+C:\Users\igyan\source\repos\Sixth\Sixth\bin\Debug\netcoreapp3.1\Sixth.deps.json
+C:\Users\igyan\source\repos\Sixth\Sixth\bin\Debug\netcoreapp3.1\Sixth.runtimeconfig.json
+C:\Users\igyan\source\repos\Sixth\Sixth\bin\Debug\netcoreapp3.1\Sixth.runtimeconfig.dev.json
+C:\Users\igyan\source\repos\Sixth\Sixth\bin\Debug\netcoreapp3.1\Sixth.dll
+C:\Users\igyan\source\repos\Sixth\Sixth\bin\Debug\netcoreapp3.1\Sixth.pdb
+C:\Users\igyan\source\repos\Sixth\Sixth\obj\Debug\netcoreapp3.1\Sixth.csprojAssemblyReference.cache
+C:\Users\igyan\source\repos\Sixth\Sixth\obj\Debug\netcoreapp3.1\Sixth.AssemblyInfoInputs.cache
+C:\Users\igyan\source\repos\Sixth\Sixth\obj\Debug\netcoreapp3.1\Sixth.AssemblyInfo.cs
+C:\Users\igyan\source\repos\Sixth\Sixth\obj\Debug\netcoreapp3.1\Sixth.csproj.CoreCompileInputs.cache
+C:\Users\igyan\source\repos\Sixth\Sixth\obj\Debug\netcoreapp3.1\Sixth.dll
+C:\Users\igyan\source\repos\Sixth\Sixth\obj\Debug\netcoreapp3.1\Sixth.pdb
+C:\Users\igyan\source\repos\Sixth\Sixth\obj\Debug\netcoreapp3.1\Sixth.genruntimeconfig.cache
