@@ -1,0 +1,15 @@
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\bin\Debug\Exercise 1.exe.config
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\bin\Debug\Exercise 1.exe
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\bin\Debug\Exercise 1.pdb
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\Exercise 1.csprojAssemblyReference.cache
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\MainWindow.g.cs
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\App.g.cs
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\Exercise 1_MarkupCompile.cache
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\Exercise 1_MarkupCompile.lref
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\MainWindow.baml
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\Exercise 1.g.resources
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\Exercise_1.Properties.Resources.resources
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\Exercise 1.csproj.GenerateResource.cache
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\Exercise 1.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\Exercise 1.exe
+E:\PROJECTS\Lab 7\Exercise 1\Exercise 1\obj\Debug\Exercise 1.pdb
